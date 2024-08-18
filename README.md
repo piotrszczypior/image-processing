@@ -4,8 +4,7 @@
 
 Installation of python virtual environment
 ```bash
-    sudo apt install python3-venv # For Debian-based
-    sudo yum install python3-venv # For Fedora-based
+    sudo apt install python3-venv 
 ```
 
 Initialization of virtual environment
